@@ -19,5 +19,8 @@ public partial class PlatformerCharacter2D : CharacterBody2D
         }
     }
 
-
+    protected void ApplyGravity(double delta)
+    {
+        Velocity += GetGravity() * (float)delta;
+    }
 }
