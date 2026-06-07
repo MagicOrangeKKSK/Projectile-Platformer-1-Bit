@@ -1,0 +1,28 @@
+[gd_scene format=3 uid="uid://dhl8hjt4qdqf1"]
+
+[ext_resource type="SpriteFrames" uid="uid://dvyqsv5m0ejnn" path="res://characters/player/player_sprite_frames.tres" id="1_508ok"]
+[ext_resource type="Script" uid="uid://x1kg3n7sscom" path="res://characters/player/Player.cs" id="1_xxgcw"]
+[ext_resource type="Resource" uid="uid://cicr4n4exgww3" path="res://characters/player/player_input_actions.tres" id="2_exd8k"]
+[ext_resource type="Script" uid="uid://8ye5ovrp2kgu" path="res://characters/Facing.cs" id="3_5dc8e"]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_xxgcw"]
+radius = 5.0
+height = 10.0
+
+[node name="Player" type="CharacterBody2D" unique_id=1361976580]
+script = ExtResource("1_xxgcw")
+actions = ExtResource("2_exd8k")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=381301455]
+position = Vector2(0, -5)
+shape = SubResource("CapsuleShape2D_xxgcw")
+
+[node name="Facing" type="Node2D" parent="." unique_id=1319708304 node_paths=PackedStringArray("Character")]
+script = ExtResource("3_5dc8e")
+Character = NodePath("..")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="Facing" unique_id=1230354277]
+position = Vector2(0, -8)
+sprite_frames = ExtResource("1_508ok")
+animation = &"run"
+frame_progress = 0.25823823

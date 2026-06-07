@@ -1,0 +1,6 @@
+[gd_resource type="Resource" format=3 uid="uid://cicr4n4exgww3"]
+
+[ext_resource type="Script" uid="uid://chyiau37urtnd" path="res://characters/player/PlayerInputActions.cs" id="1_oy67t"]
+
+[resource]
+script = ExtResource("1_oy67t")
