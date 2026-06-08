@@ -3,6 +3,7 @@ using Godot;
 public partial class PlayerInput : Node
 {
     [Export] public Player character;
+    [Export] public Shooter shooter;
     [Export] public PlayerInputActions actions;
 
     public override void _PhysicsProcess(double delta)
@@ -18,6 +19,11 @@ public partial class PlayerInput : Node
         if (e.IsActionPressed(actions.jump))
         {
             character.TryJump();
+        }
+    
+        if (e.IsActionPressed(actions.shoot))
+        {
+            shooter.TryShoot();
         }
     }
 

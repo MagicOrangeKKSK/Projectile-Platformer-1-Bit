@@ -11,13 +11,17 @@ config_version=5
 [application]
 
 config/name="projectile platformer 1bit"
-run/main_scene="uid://bt5n0yi48auo7"
+run/main_scene="uid://cx1i1viexxfd0"
 config/features=PackedStringArray("4.6", "C#", "Forward Plus")
 config/icon="res://icon.svg"
 
 [dotnet]
 
 project/assembly_name="projectile platformer 1bit"
+
+[global_group]
+
+projectiles_parent=""
 
 [input]
 
@@ -64,3 +68,4 @@ shoot={
 
 textures/canvas_textures/default_texture_filter=0
 rendering_device/driver.windows="d3d12"
+environment/defaults/default_clear_color=Color(0, 0, 0, 1)

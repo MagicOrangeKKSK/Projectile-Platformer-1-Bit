@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "E:\\Godot Project\\Projectile-Platformer-1-Bit\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{56D50C4B-477C-41FF-AE44-8F01CA7223BC}|projectile platformer 1bit.csproj|e:\\godot project\\projectile-platformer-1-bit\\characters\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D50C4B-477C-41FF-AE44-8F01CA7223BC}|projectile platformer 1bit.csproj|solutionrelative:characters\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D50C4B-477C-41FF-AE44-8F01CA7223BC}|projectile platformer 1bit.csproj|e:\\godot project\\projectile-platformer-1-bit\\characters\\player\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D50C4B-477C-41FF-AE44-8F01CA7223BC}|projectile platformer 1bit.csproj|solutionrelative:characters\\player\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D50C4B-477C-41FF-AE44-8F01CA7223BC}|projectile platformer 1bit.csproj|e:\\godot project\\projectile-platformer-1-bit\\weapons\\projectiles\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D50C4B-477C-41FF-AE44-8F01CA7223BC}|projectile platformer 1bit.csproj|solutionrelative:weapons\\projectiles\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D50C4B-477C-41FF-AE44-8F01CA7223BC}|projectile platformer 1bit.csproj|e:\\godot project\\projectile-platformer-1-bit\\data\\groupnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D50C4B-477C-41FF-AE44-8F01CA7223BC}|projectile platformer 1bit.csproj|solutionrelative:data\\groupnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D50C4B-477C-41FF-AE44-8F01CA7223BC}|projectile platformer 1bit.csproj|e:\\godot project\\projectile-platformer-1-bit\\weapons\\projectiles\\firebale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D50C4B-477C-41FF-AE44-8F01CA7223BC}|projectile platformer 1bit.csproj|solutionrelative:weapons\\projectiles\\firebale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{56D50C4B-477C-41FF-AE44-8F01CA7223BC}|projectile platformer 1bit.csproj|e:\\godot project\\projectile-platformer-1-bit\\characters\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56D50C4B-477C-41FF-AE44-8F01CA7223BC}|projectile platformer 1bit.csproj|solutionrelative:characters\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{56D50C4B-477C-41FF-AE44-8F01CA7223BC}|projectile platformer 1bit.csproj|e:\\godot project\\projectile-platformer-1-bit\\characters\\platformercharacter2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56D50C4B-477C-41FF-AE44-8F01CA7223BC}|projectile platformer 1bit.csproj|solutionrelative:characters\\platformercharacter2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56D50C4B-477C-41FF-AE44-8F01CA7223BC}|projectile platformer 1bit.csproj|e:\\godot project\\projectile-platformer-1-bit\\characters\\player\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56D50C4B-477C-41FF-AE44-8F01CA7223BC}|projectile platformer 1bit.csproj|solutionrelative:characters\\player\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{56D50C4B-477C-41FF-AE44-8F01CA7223BC}|projectile platformer 1bit.csproj|e:\\godot project\\projectile-platformer-1-bit\\characters\\player\\playerinputactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,37 +46,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1035,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PlayerInput.cs",
               "DocumentMoniker": "E:\\Godot Project\\Projectile-Platformer-1-Bit\\characters\\player\\PlayerInput.cs",
               "RelativeDocumentMoniker": "characters\\player\\PlayerInput.cs",
               "ToolTip": "E:\\Godot Project\\Projectile-Platformer-1-Bit\\characters\\player\\PlayerInput.cs",
               "RelativeToolTip": "characters\\player\\PlayerInput.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA0wBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-07T08:24:39.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "PlatformerCharacter2D.cs",
               "DocumentMoniker": "E:\\Godot Project\\Projectile-Platformer-1-Bit\\characters\\PlatformerCharacter2D.cs",
               "RelativeDocumentMoniker": "characters\\PlatformerCharacter2D.cs",
               "ToolTip": "E:\\Godot Project\\Projectile-Platformer-1-Bit\\characters\\PlatformerCharacter2D.cs",
               "RelativeToolTip": "characters\\PlatformerCharacter2D.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-07T07:42:44.564Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Facing.cs",
               "DocumentMoniker": "E:\\Godot Project\\Projectile-Platformer-1-Bit\\characters\\Facing.cs",
               "RelativeDocumentMoniker": "characters\\Facing.cs",
@@ -72,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "PlayerInputActions.cs",
               "DocumentMoniker": "E:\\Godot Project\\Projectile-Platformer-1-Bit\\characters\\player\\PlayerInputActions.cs",
               "RelativeDocumentMoniker": "characters\\player\\PlayerInputActions.cs",
@@ -80,24 +96,75 @@
               "RelativeToolTip": "characters\\player\\PlayerInputActions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T07:13:54.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T07:13:54.168Z"
             }
           ]
         },
         {
           "DockedWidth": 1641,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroupNames.cs",
+              "DocumentMoniker": "E:\\Godot Project\\Projectile-Platformer-1-Bit\\data\\GroupNames.cs",
+              "RelativeDocumentMoniker": "data\\GroupNames.cs",
+              "ToolTip": "E:\\Godot Project\\Projectile-Platformer-1-Bit\\data\\GroupNames.cs",
+              "RelativeToolTip": "data\\GroupNames.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T16:28:15.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Firebale.cs",
+              "DocumentMoniker": "E:\\Godot Project\\Projectile-Platformer-1-Bit\\weapons\\projectiles\\Firebale.cs",
+              "RelativeDocumentMoniker": "weapons\\projectiles\\Firebale.cs",
+              "ToolTip": "E:\\Godot Project\\Projectile-Platformer-1-Bit\\weapons\\projectiles\\Firebale.cs",
+              "RelativeToolTip": "weapons\\projectiles\\Firebale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T07:36:32.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "E:\\Godot Project\\Projectile-Platformer-1-Bit\\weapons\\projectiles\\Projectile.cs",
+              "RelativeDocumentMoniker": "weapons\\projectiles\\Projectile.cs",
+              "ToolTip": "E:\\Godot Project\\Projectile-Platformer-1-Bit\\weapons\\projectiles\\Projectile.cs",
+              "RelativeToolTip": "weapons\\projectiles\\Projectile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T07:07:09.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Shooter.cs",
+              "DocumentMoniker": "E:\\Godot Project\\Projectile-Platformer-1-Bit\\characters\\Shooter.cs",
+              "RelativeDocumentMoniker": "characters\\Shooter.cs",
+              "ToolTip": "E:\\Godot Project\\Projectile-Platformer-1-Bit\\characters\\Shooter.cs",
+              "RelativeToolTip": "characters\\Shooter.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA5wB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T06:30:51.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Player.cs",
               "DocumentMoniker": "E:\\Godot Project\\Projectile-Platformer-1-Bit\\characters\\player\\Player.cs",
               "RelativeDocumentMoniker": "characters\\player\\Player.cs",
               "ToolTip": "E:\\Godot Project\\Projectile-Platformer-1-Bit\\characters\\player\\Player.cs",
               "RelativeToolTip": "characters\\player\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-04T08:52:18.857Z",
               "EditorCaption": ""
